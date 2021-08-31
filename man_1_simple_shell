@@ -1,0 +1,15 @@
+"ALX-HOLBERTON" "SIMPLE_SHELL"
+.SH NAME
+.B simple_shell
+- a simple UNIX command interpreter
+.SH SYNOPSIS
+.B #include \(dqholberton.h\(dq
+.sp
+.B int hsh(void)
+.SH DESCRIPTION
+.B Overview
+.sp
+The simple shell is an application that reads lines from either a file or the
+terminal, interprets them, and executes them. Users can interactively type directly
+to the
+running shell or pipe in shell scripts.
